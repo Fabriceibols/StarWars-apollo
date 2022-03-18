@@ -1,0 +1,16 @@
+/* Float four columns side by side */
+.card {
+  float: left;
+  text-align-last: right;
+  width: 30%;
+  padding: 20px;
+  margin: 1%;
+}
+
+/* .card {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+  align-items: end;
+}
+ */
