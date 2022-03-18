@@ -1,4 +1,4 @@
-# StarWars
+# StarWars Api Typescript
 
 Apollo GraphQL API
 
